@@ -1,0 +1,26 @@
+.cabecera{
+    background-color: rgb(140, 240, 240);
+
+}
+
+nav li{
+   margin: auto;
+    list-style: none;
+    padding: 20px;
+}
+a{
+    font-size: 25px;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+     
+}
+a:hover{
+    background-color: rgba(0, 0, 0, 0.767);
+    color: rgb(255, 255, 255);
+    padding: 15px 20px;
+}
+.cabecera li{
+    text-align: center;
+    display: inline-block;
+}
